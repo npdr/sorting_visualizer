@@ -1,0 +1,11 @@
+.array-container {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.array-bar {
+    display: inline-block;
+    width: 1px;
+    margin: 1px;
+    background-color: red;
+}
